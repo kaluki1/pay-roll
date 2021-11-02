@@ -1,5 +1,5 @@
 /*Project: Payroll Program
-Author: Caroline Mutugi
+Author: catherine kaluki
 Date: Oct, 2021
 Compiler: GCC
 Language: C99
